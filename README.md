@@ -1,4 +1,4 @@
-# Hi! I'm Budi :)
+## Hi! I'm Budi :)
 
 I'm a web developer from Bandung, Indonesia 👨‍💻
 
@@ -17,7 +17,11 @@ both in backend and frontend:
 [Vue.js](https://vuejs.org/ "Vue.js"), 
 [Hugo](https://gohugo.io "Hugo").
 
-See **[my dev/project 💻](https://budidev.com/dev/ "budimanfajarf dev/project")**
+See my **[dev/project 💻](https://budidev.com/dev/ "Budiman Fajar Firdaus dev/project")**
+
+- Find me [on the internet 🌐](https://ini.space/budi "Budiman Fajar Firdaus on the internet")
+- Feel free to [contact me 👋](https://budidev.com/about/#contact "Budiman Fajar Firdaus contact") 
+
 
 <!--
 ### Hi there 👋
