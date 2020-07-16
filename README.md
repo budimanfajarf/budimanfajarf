@@ -1,10 +1,10 @@
-## Hi! I'm Budi :)
+## ☕ Hi! I'm Budi :)
 
 I'm a web developer from Bandung, Indonesia 👨‍💻
 
 I've been 5 years in IT stuff and have been focused on web development for 3 years. 
 I love to code, and more prefer to code in the backend, 
-but I can do frontend too.
+but I can do frontend too :)
 
 Here my experience in some languages and frameworks, 
 both in backend and frontend: 
@@ -17,12 +17,11 @@ both in backend and frontend:
 [Vue.js](https://vuejs.org/ "Vue.js"), 
 [Hugo](https://gohugo.io "Hugo").
 
-See my **[dev/project 💻](https://budidev.com/dev/ "Budiman Fajar Firdaus dev/project")**
+See **[my dev/project 💻](https://budidev.com/dev/ "Budiman Fajar Firdaus dev/project")**
 
-- Find me [on the internet 🌐](https://ini.space/budi "Budiman Fajar Firdaus on the internet")
-- Feel free to [contact me 👋](https://budidev.com/about/#contact "Budiman Fajar Firdaus contact") 
+Find [me on the internet 🌐](https://ini.space/budi "Budiman Fajar Firdaus on the internet") and feel free to [contact me 📫](https://budidev.com/about/#contact "Budiman Fajar Firdaus contact")
 
-
+Thanks! :)
 <!--
 ### Hi there 👋
 
