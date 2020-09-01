@@ -3,8 +3,7 @@
 I'm a web developer from Indonesia 👨‍💻
 
 I've been 5 years in IT stuff and focused on web development for the last 3 years. 
-I love to code, and more prefer to code in the backend, 
-but I can do frontend too :)
+I love to code, both on the Frontend and Backend, and more than happy when my work solved my client problems :)
 
 See my **[dev/project 💻](https://budidev.com/dev/ "Budiman Fajar Firdaus dev/project")** 
 &nbsp;find me [on the internet 🌐](https://ini.space/budi "Budiman Fajar Firdaus on the internet") 
