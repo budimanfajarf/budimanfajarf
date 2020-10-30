@@ -5,9 +5,9 @@ I'm a web developer from Indonesia 👨‍💻
 I've been 5 years in IT stuff and focused on web development for the last 3 years. 
 I love to code, both on the Frontend and Backend, and more than happy when my work solved my client problems :)
 
-See my **[dev/project 💻](https://budidev.com/dev/ "Budiman Fajar Firdaus dev/project")** 
-&nbsp;find me [on the internet 🌐](https://ini.space/budi "Budiman Fajar Firdaus on the internet") 
-&nbsp;and feel free to [contact me 📫](https://budidev.com/about/#contact "Budiman Fajar Firdaus contact")
+See my **[dev/project 💻](https://budidev.com/dev/ "budi's dev/project")**, 
+&nbsp; [blog ✍](https://budidev.com/posts/ "budi's blog") 
+&nbsp;and feel free to [contact me 📫](https://budidev.com/about/#contact "budi's contact")
 
 <!--
 ### Hi there 👋
