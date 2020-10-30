@@ -1,13 +1,17 @@
 # ☕ Hi! I'm Budi :)
 
-I'm a web developer from Indonesia 👨‍💻
+A web developer from Indonesia 👨‍💻
 
-I've been 5 years in IT stuff and focused on web development for the last 3 years. 
-I love to code, both on the Frontend and Backend, and more than happy when my work solved my client problems.
+I love to code, both on the frontend and backend, and more than happy when my work solved my client problems.
 
 See my <ins>**[portfolio](https://budidev.com/dev/ "budi's dev/project")**</ins>, 
-<ins>**[blog](https://budidev.com/posts/ "budi's blog")**</ins>
-&nbsp;and feel free to <ins>**[contact me](https://budidev.com/about/#contact "budi's contact")**</ins> **:)**
+<ins>**[blog](https://budidev.com/posts/ "budi's blog")**</ins> and feel free to <ins>**[contact me](https://budidev.com/about/#contact "budi's contact")**</ins> **:)**
+
+<a href="https://linkedin.com/in/budimanfajarf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/linkedin.svg" alt="budi's linkedin" height="18" /></a> &nbsp;
+<a href="https://twitter.com/budimanfajarf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg" alt="budi's twitter" height="18" /></a> &nbsp;
+<a href="https://t.me/budimanfajarf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/telegram.svg" alt="budi's telegram" height="18" /></a> &nbsp;
+<a href="https://budidev.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/googlechrome.svg" alt="budi's web" height="18" /></a> &nbsp;
+
 
 <!--
 ### Hi there 👋
