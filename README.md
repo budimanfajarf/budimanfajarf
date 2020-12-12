@@ -8,15 +8,20 @@ See my <ins>**[portfolio](https://budidev.com/dev/ "budi's dev/project")**</ins>
 <ins>**[blog](https://budidev.com/posts/ "budi's blog")**</ins> and feel free to <ins>**[contact me](https://budidev.com/about/#contact "budi's contact")**</ins> **:)**
 
 <a href="https://linkedin.com/in/budimanfajarf" target="_blank" title="linkedin">
-<img align="center" src="/icons/linkedin.svg" alt="linkedin" height="18"/></svg>
+    <img align="center" src="/icons/linkedin.svg" alt="linkedin" height="18"/>
 </a> &nbsp;
 <a href="https://twitter.com/budimanfajarf" target="_blank" title="twitter">
-<img align="center" src="/icons/twitter.svg" alt="linkedin" height="18"/></svg></svg>
+    <img align="center" src="/icons/twitter.svg" alt="linkedin" height="18"/>
 </a> &nbsp;
-<a href="https://t.me/budimanfajarf" target="_blank" title="telegram"><svg viewBox="0 0 32 32"><use xlink:href="/icons/telegram.svg"></use></svg>
+<a href="https://t.me/budimanfajarf" target="_blank" title="telegram">
+    <img align="center" src="/icons/telegram.svg" alt="web" height="18"/>
 </a> &nbsp;
 <a href="https://budidev.com" target="_blank" title="website">
-<img align="center" src="/icons/googlechrome.svg" alt="web" height="18"/></a> &nbsp;
+    <img align="center" src="/icons/googlechrome.svg" alt="web" height="18"/>
+</a> &nbsp;
+<a href="https://budidev.com" target="_blank" title="website">
+    <img align="center" src="/icons/external-link.svg" alt="web" height="18"/>
+</a> &nbsp;
 
 
 <!--
