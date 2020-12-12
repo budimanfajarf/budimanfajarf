@@ -17,7 +17,7 @@ See my <ins>**[portfolio](https://budidev.com/dev/ "budi's dev/project")**</ins>
     <img align="center" src="/icons/telegram.svg" alt="web" height="18"/>
 </a> &nbsp;
 <a href="https://budidev.com" target="_blank" title="website">
-    <img align="center" src="/icons/external-link.svg" alt="web" height="18"/>
+    <img align="center" src="/icons/googlechrome.svg" alt="web" height="18"/>
 </a> &nbsp;
 
 
