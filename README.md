@@ -20,7 +20,7 @@ See my <ins>**[portfolio](https://budidev.com/dev/ "budi's dev/project")**</ins>
     <img align="center" src="/icons/external-link.svg" alt="web" height="18"/>
 </a> &nbsp;
 
-<br/>
+&nbsp;
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=budimanfajarf&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
