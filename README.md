@@ -1,4 +1,4 @@
-# ☕ Hi! I'm Budi :)
+# Hi! I'm Budi :)
 
 A web developer from Indonesia 👨‍💻
 
