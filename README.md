@@ -1,6 +1,6 @@
 # Hi! I'm Budi :)
 
-A web developer from Indonesia 👨‍💻
+Software engineer from Indonesia 👨‍💻
 
 I love to code, both on the frontend and backend, and more than happy when my work solved my client problems.
 
