@@ -22,7 +22,7 @@ See my <ins>**[portfolio](https://budi.day/dev/ "budi's dev/project")**</ins>,
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=budimanfajarf&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=budimanfajarf&theme=nord)](https://git.io/streak-stats)
 
 <!--
 ### Hi there 👋
