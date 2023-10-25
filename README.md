@@ -4,7 +4,7 @@ Software engineer from Indonesia 👨‍💻
 
 I love to code, both on the frontend and backend, and more than happy when my work solved my client problems.
 
-See my [portfolio](https://budi.day/dev/ "budi's dev/project"), [blog](https://budi.day/posts/ "budi's blog") and feel free to [contact me](https://budi.day/about/#contact "budi's contact") **:)**
+See my [portfolio](https://budi.day/dev/ "budi's dev/project"), [blog](https://budi.day/posts/ "budi's blog") and feel free to [contact me](https://budi.day/about/#contact "budi's contact") :)
 
 <a href="https://linkedin.com/in/budimanfajarf" target="_blank" title="linkedin"><img align="center" src="/icons/linkedin.svg" alt="linkedin" height="18"/></a> &nbsp;
 <a href="https://twitter.com/budimanfajarf" target="_blank" title="twitter"><img align="center" src="/icons/twitter.svg" alt="linkedin" height="18"/></a> &nbsp;
