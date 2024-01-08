@@ -11,12 +11,11 @@ See my [portfolio](https://budi.day/dev/ "budi's dev/project"), [blog](https://b
 <a href="https://t.me/budimanfajarf" target="_blank" title="telegram"><img align="center" src="/icons/telegram.svg" alt="web" height="18"/></a> &nbsp;
 <a href="https://budi.day" target="_blank" title="website"><img align="center" src="/icons/external-link.svg" alt="web" height="18"/></a> &nbsp;
 
-<!--
-
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=budimanfajarf&theme=nord)](https://git.io/streak-stats)
 
+<!--
 
 ### Hi there 👋
 
