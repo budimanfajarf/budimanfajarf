@@ -9,7 +9,7 @@ See my [portfolio](https://budi.day/dev/ "budi's dev/project"), [blog](https://b
 <a href="https://linkedin.com/in/budimanfajarf" target="_blank" title="linkedin"><img align="center" src="/icons/linkedin.svg" alt="linkedin" height="18"/></a> &nbsp;
 <a href="https://twitter.com/budimanfajarf" target="_blank" title="twitter"><img align="center" src="/icons/twitter.svg" alt="linkedin" height="18"/></a> &nbsp;
 <a href="https://t.me/budimanfajarf" target="_blank" title="telegram"><img align="center" src="/icons/telegram.svg" alt="web" height="18"/></a> &nbsp;
-<a href="http://upwork.com/freelancers/budi" target="_blank" title="upwork"><img align="center" src="/icons/upwork.svg" alt="upwork" height="18"/></a> &nbsp;
+<a href="https://upwork.com/freelancers/budi" target="_blank" title="upwork"><img align="center" src="/icons/upwork.svg" alt="upwork" height="18"/></a> &nbsp;
 <a href="https://budi.day" target="_blank" title="website"><img align="center" src="/icons/external-link.svg" alt="web" height="18"/></a> &nbsp;
 
 ---
